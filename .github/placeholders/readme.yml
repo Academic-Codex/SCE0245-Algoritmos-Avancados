@@ -1,0 +1,12 @@
+REPO_TAGLINE: Advanced algorithms • complexity • optimization
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: coding
+SITE_URL: https://academic-codex.github.io/SCE0245-Algoritmos-Avancados
+
+BG_1: "#111827"
+BG_2: "#1F2937"
+TEXT_MAIN: "#F9FAFB"
+TEXT_MUTED: "#9CA3AF"
+ACCENT: "#F59E0B"
+CARD_RADIUS: "18"
